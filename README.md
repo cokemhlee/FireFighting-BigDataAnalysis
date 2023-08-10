@@ -11,3 +11,5 @@ KISTI 과학데이터교육센터 - 소방빅데이터분석(실습) 자료
   * 데이터 : [Kaggle Fire Dataset](https://www.kaggle.com/datasets/phylake1337/fire-dataset/download?datasetVersionNumber=1)
   * 강사 예시 코드 : FireDetector_teacher.ipynb
 
+* 추가 : 이미지 생성 사이트 만들기
+  * 실습 코드 : ImageGenerator_new.ipynb
